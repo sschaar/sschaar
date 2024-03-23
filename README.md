@@ -9,10 +9,6 @@
 
 ###
 
-<img align="right" src="https://profile-counter.glitch.me/sschaar/count.svg?"  />
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
@@ -49,8 +45,18 @@
 
 ###
 
-<div align="center">
-  <img height="200" src="https://media1.tenor.com/m/w7ThV57JRLkAAAAC/luffy.gif"  />
+<br clear="both">
+
+<div align="right">
+  <img src="https://profile-counter.glitch.me/sschaar/count.svg?"  />
 </div>
+
+###
+
+<img align="right" height="500" src="https://a-static.besthdwallpaper.com/tokyo-ghoul-re-haise-sasaki-ken-kaneki-black-white-wallpaper-480x800-9801_185.jpg"  />
+
+###
+
+<img align="left" height="500" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjU5dmpkNDEzZnVydmQ5bWJ0ZWlvYTA4YzBobHIyZWllOTYwb3djeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4ilFRqgbzbx4c/giphy.gif"  />
 
 ###
