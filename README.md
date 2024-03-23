@@ -1,4 +1,4 @@
-<h1 align="left">Hey! My name is Stefan Schaar, and I'm a student from austira.</h1>
+<h1 align="left">Hey! My name is Stefan Schaar, and I'm student from austira.</h1>
 
 ###
 
@@ -46,10 +46,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/sschaar/sschaar/output/snake.svg" alt="Snake animation" />
 
 ###
 
