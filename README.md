@@ -1,4 +1,8 @@
-<h1 align="left">Hey! My name is Stefan Schaar, and I'm student from austira.</h1>
+<h1 align="center">Hey!</h1>
+
+###
+
+<p align="center">My name is Stefan Schaar <br>and I'm a student from austira.</p>
 
 ###
 
